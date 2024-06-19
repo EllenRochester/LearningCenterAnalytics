@@ -26,6 +26,6 @@ My role was to analyze the experimental data, synthesize the findings, and recom
 - <b>R</b> 
 - <b>Tableau</b>
 - <b>Quasi-experiment</b>
-- <b>ANOVA</b>
+- <b>Linear regression</b>
 
 
