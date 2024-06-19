@@ -11,7 +11,7 @@ My role was to analyze the experimental data, synthesize the findings, and recom
 <br />
 
 
-<h2>Achievement </h2>
+<h2>Action </h2>
 - Executed a quasi-experiment to investigate the effectiveness of three potential new educational programs at the learning center, analyzing an 18K student grade dataset with R.
 <br />
 <br />
