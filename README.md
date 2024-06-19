@@ -15,7 +15,7 @@ My role was to analyze the experimental data, synthesize the findings, and recom
 - Executed a quasi-experiment to investigate the effectiveness of three potential new educational programs at the learning center, analyzing an 18K student grade dataset with R.
 <br />
 <br />
-- Applied ANOVA to statistically compare the performance across different student groups to identify the improvement brought by new educational programs.
+- Applied linear regression to statistically compare the performance across different student groups to identify the improvement brought by new educational programs.
 <br />
 <br />
 - Visualized the student grade comparisons by Tableau; compiled an analysis report with insights and recommendations, resulting in a <b>threefold improvement</b> in student scores compared to the original program.
